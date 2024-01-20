@@ -29,7 +29,7 @@ All code in this repository is written and tested with Python version 3.12. Make
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/python-beyond-basics.git
+   git clone https://github.com/dillawarnwl/python-beyond-basics.git
    ```
 
 2. Navigate to the specific week's folder:
